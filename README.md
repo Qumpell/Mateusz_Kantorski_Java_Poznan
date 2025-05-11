@@ -5,7 +5,7 @@ This project enables the optimization of payments based on available payment met
 
 ## Requirements
 - Java 21
-- Maven 3.x
+- Maven 3.9.6
 
 ## Project Structure
 - `src/`: The source code of the application
@@ -27,7 +27,7 @@ The application uses the following libraries:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/github.com/Qumpell/Mateusz_Kantorski_Java_Poznan.git
+   git clone https://github.com/Qumpell/Mateusz_Kantorski_Java_Poznan.git
 
 3. **Build the Project:**
    ```bash
